@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ShubhamThakurela
+- 👋 Hi,
+-  I’m Shubham-BD >
 - 👀 High Views.
-- 🌱 I’m currently learning and always will be....
+- 🌱 New Techs hecks daily and always will be...
 - 💞️ I’m looking to collaborate with anybody...... 
 - 📫 How to reach me ... Subham.thakurela@gmail.com
 
